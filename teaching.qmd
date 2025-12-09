@@ -1,0 +1,124 @@
+---
+title: "Teaching Experience"
+---
+
+## Teaching Philosophy
+
+I believe in creating an inclusive and engaging learning environment where students feel empowered to explore complex concepts through hands-on experience and collaborative problem-solving. My teaching approach emphasizes practical applications, clear communication, and individualized support to help each student reach their full potential.
+
+---
+
+## Teaching Appointments
+
+### Lead Teaching Assistant
+#### MATH 302: Discrete Mathematics
+**Case Western Reserve University** | *Summer 2024*
+
+<div class="teaching-role">
+
+**Responsibilities:**
+- Provided comprehensive support for advanced mathematical concepts including graph theory, combinatorics, and algorithm analysis
+- Conducted weekly office hours offering individualized problem-solving guidance
+- Developed supplementary materials and practice problems to enhance student understanding
+- Graded all assignments, quizzes, and exams with detailed feedback
+
+**Impact:**
+- Helped improve class average by 15% through targeted review sessions
+- Received positive feedback from students for clear explanations of complex topics
+- Created a comprehensive study guide that was adopted for future semesters
+
+</div>
+
+---
+
+### Teaching Assistant
+#### ENGR 210: Introduction to Circuits and Instrumentation
+**Case Western Reserve University** | *Spring 2023 – Spring 2025*
+
+<div class="teaching-role">
+
+**Responsibilities:**
+- Facilitated hands-on laboratory sessions for 60+ students across multiple sections
+- Demonstrated experimental setups including oscilloscopes, function generators, and multimeters
+- Ensured adherence to safety protocols in electrical engineering labs
+- Provided real-time troubleshooting support during experiments
+
+**Key Contributions:**
+- Developed visual aids and quick reference guides for common circuit configurations
+- Implemented a peer-mentoring system that improved lab completion rates
+- Created video tutorials for remote learners during hybrid instruction periods
+
+**Topics Covered:**
+- Basic circuit analysis (Ohm's Law, Kirchhoff's Laws)
+- AC/DC circuit behavior
+- Operational amplifiers
+- Digital logic circuits
+- Instrumentation and measurement techniques
+
+</div>
+
+---
+
+### Teaching Assistant
+#### EBME 360: Biomedical Instrumentation Laboratory
+**Case Western Reserve University** | *Spring 2024*
+
+<div class="teaching-role">
+
+**Responsibilities:**
+- Guided students through advanced biomedical instrumentation techniques
+- Supervised experiments involving physiological signal acquisition and processing
+- Taught proper use of specialized equipment (ECG, EMG, pulse oximeters)
+- Evaluated laboratory reports and provided constructive feedback
+
+**Laboratory Modules:**
+- Biopotential measurements (ECG, EMG, EEG)
+- Biomedical transducers and sensors
+- Signal conditioning and filtering
+- Digital signal processing for biomedical applications
+- Medical device safety and standards
+
+**Achievements:**
+- Redesigned lab protocols to improve clarity and reduce completion time
+- Mentored student teams on final instrumentation design projects
+- Contributed to curriculum updates based on student feedback
+
+</div>
+
+---
+
+## Mentorship
+
+### Senior Design Project Mentoring
+- Advised junior students on biomedical engineering capstone projects
+- Provided guidance on experimental design and data analysis
+- Assisted with technical writing and presentation skills
+
+### Peer Tutoring
+- Volunteered as peer tutor for undergraduate BME courses
+- Specialized in signal processing and programming assistance
+- Helped international students adapt to US academic environment
+
+---
+
+## Teaching Interests
+
+I am interested in teaching courses related to:
+
+- **Biomedical Imaging**: From basic principles to advanced techniques
+- **Signal Processing**: Digital signal processing for biomedical applications
+- **Programming for Engineers**: Python and MATLAB for scientific computing
+- **Medical Device Design**: From concept to clinical implementation
+- **Machine Learning in Medicine**: Applications and implementation
+
+---
+
+## Professional Development in Education
+
+### Workshops Attended
+- "Effective Teaching in STEM" - CWRU Center for Teaching Excellence
+- "Inclusive Teaching Practices" - Engineering Education Workshop
+- "Laboratory Safety Training for TAs" - Annual certification
+
+### Future Goals
+I aim to continue developing my teaching skills and eventually design my own courses that bridge the gap between engineering theory and clinical practice. I am particularly interested in creating interdisciplinary courses that combine medical imaging, machine learning, and clinical applications.

@@ -1,0 +1,345 @@
+[
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Technical Skills",
+    "section": "",
+    "text": "Applications: Medical image processing, deep learning, data analysis, automation\nKey Libraries:\n\nMedical Imaging: SimpleITK, NiBabel, PyDicom\nMachine Learning: TensorFlow, PyTorch, Scikit-learn\nData Science: NumPy, Pandas, SciPy, Matplotlib, Seaborn\nComputer Vision: OpenCV, scikit-image\n\nProjects: Cardiac DTI analysis pipeline, Automatic skull stripping algorithm\n\n\n\n\n\n\n\nApplications: Software engineering, algorithm implementation, Android development\nFrameworks: Spring, JavaFX for GUI development\nProjects: Wound care chatbot backend, Data structures implementations\n\n\n\n\n\n\n\n\n\n\nApplications: Signal processing, physiological modeling, image analysis\nToolboxes: Image Processing, Signal Processing, Statistics and Machine Learning\n\n\n\n\n\n\n\nApplications: Statistical analysis, data visualization, reproducible research\nPackages: tidyverse, ggplot2, caret, survival analysis\n\n\n\n\n\n\n\nC: System programming, embedded systems\nCUDA: GPU programming for parallel processing\nSQL: Database queries and management\nHTML/CSS: Basic web development"
+  },
+  {
+    "objectID": "skills.html#programming-languages",
+    "href": "skills.html#programming-languages",
+    "title": "Technical Skills",
+    "section": "",
+    "text": "Applications: Medical image processing, deep learning, data analysis, automation\nKey Libraries:\n\nMedical Imaging: SimpleITK, NiBabel, PyDicom\nMachine Learning: TensorFlow, PyTorch, Scikit-learn\nData Science: NumPy, Pandas, SciPy, Matplotlib, Seaborn\nComputer Vision: OpenCV, scikit-image\n\nProjects: Cardiac DTI analysis pipeline, Automatic skull stripping algorithm\n\n\n\n\n\n\n\nApplications: Software engineering, algorithm implementation, Android development\nFrameworks: Spring, JavaFX for GUI development\nProjects: Wound care chatbot backend, Data structures implementations\n\n\n\n\n\n\n\n\n\n\nApplications: Signal processing, physiological modeling, image analysis\nToolboxes: Image Processing, Signal Processing, Statistics and Machine Learning\n\n\n\n\n\n\n\nApplications: Statistical analysis, data visualization, reproducible research\nPackages: tidyverse, ggplot2, caret, survival analysis\n\n\n\n\n\n\n\nC: System programming, embedded systems\nCUDA: GPU programming for parallel processing\nSQL: Database queries and management\nHTML/CSS: Basic web development"
+  },
+  {
+    "objectID": "skills.html#medical-imaging-analysis",
+    "href": "skills.html#medical-imaging-analysis",
+    "title": "Technical Skills",
+    "section": "Medical Imaging & Analysis",
+    "text": "Medical Imaging & Analysis\n\nSoftware Platforms\n\n\n\nClinical Software\n\nINDI: Cardiac DTI processing and analysis\n3D Slicer: Medical image visualization and analysis\nITK-SNAP: Segmentation and registration\nFSL: Neuroimaging analysis\n\n\n\n\nDevelopment Tools\n\nSimpleITK: Medical image processing library\nDICOM Toolkit: DICOM file handling\nVTK: 3D visualization\nParaView: Scientific visualization\n\n\n\n\n\n\nImaging Modalities Experience\n\nMRI: Sequence programming, DTI, DWI, T1/T2 mapping\nCT: Reconstruction algorithms, artifact correction\nUltrasound: Signal processing, image formation\nMicroscopy: Image analysis, cell tracking"
+  },
+  {
+    "objectID": "skills.html#machine-learning-ai",
+    "href": "skills.html#machine-learning-ai",
+    "title": "Technical Skills",
+    "section": "Machine Learning & AI",
+    "text": "Machine Learning & AI\n\nDeep Learning\n\nFrameworks: TensorFlow, PyTorch, Keras\nArchitectures: U-Net, ResNet, Vision Transformers\nApplications: Medical image segmentation, classification, registration\n\n\n\nClassical ML\n\nAlgorithms: Random Forest, SVM, XGBoost\nApplications: Feature extraction, predictive modeling, clustering\n\n\n\nComputer Vision\n\nLibraries: OpenCV, scikit-image\nTasks: Image preprocessing, feature detection, object tracking"
+  },
+  {
+    "objectID": "skills.html#data-science-analytics",
+    "href": "skills.html#data-science-analytics",
+    "title": "Technical Skills",
+    "section": "Data Science & Analytics",
+    "text": "Data Science & Analytics\n\nStatistical Analysis\n\nHypothesis testing\nRegression modeling (linear, logistic, mixed-effects)\nBayesian analysis\nTime series analysis\nSurvival analysis\n\n\n\nData Visualization\n\nTools: Matplotlib, Seaborn, Plotly, ggplot2\nDashboards: Streamlit, Dash\nReports: Quarto, Jupyter Notebooks\n\n\n\nBig Data\n\nProcessing: Parallel computing, batch processing\nStorage: HDF5, Zarr for large medical datasets\nCloud: Basic AWS, Google Cloud experience"
+  },
+  {
+    "objectID": "skills.html#software-development",
+    "href": "skills.html#software-development",
+    "title": "Technical Skills",
+    "section": "Software Development",
+    "text": "Software Development\n\nVersion Control & Collaboration\n\nGit/GitHub: Advanced version control, branching strategies\nDocumentation: Markdown, Sphinx, comprehensive code documentation\nCI/CD: GitHub Actions for automated testing\n\n\n\nDevelopment Practices\n\nObject-oriented programming\nTest-driven development\nAgile methodologies\nCode review practices\n\n\n\nIDEs & Tools\n\nVS Code, PyCharm, IntelliJ IDEA\nJupyter Lab, RStudio\nMATLAB IDE, Visual Studio"
+  },
+  {
+    "objectID": "skills.html#laboratory-hardware",
+    "href": "skills.html#laboratory-hardware",
+    "title": "Technical Skills",
+    "section": "Laboratory & Hardware",
+    "text": "Laboratory & Hardware\n\nBiomedical Instrumentation\n\nOscilloscopes, function generators, multimeters\nBiopotential amplifiers (ECG, EMG, EEG)\nData acquisition systems (DAQ)\nArduino, Raspberry Pi for prototyping\n\n\n\nLaboratory Skills\n\nExperimental design\nProtocol development\nSafety procedures\nEquipment calibration"
+  },
+  {
+    "objectID": "skills.html#soft-skills",
+    "href": "skills.html#soft-skills",
+    "title": "Technical Skills",
+    "section": "Soft Skills",
+    "text": "Soft Skills\n\n\n\nCommunication\n\nTechnical writing\nScientific presentations\nTeaching and mentoring\nCross-functional collaboration\n\n\n\n\nProject Management\n\nResearch planning\nTime management\nTeam coordination\nDocumentation"
+  },
+  {
+    "objectID": "skills.html#certifications-training",
+    "href": "skills.html#certifications-training",
+    "title": "Technical Skills",
+    "section": "Certifications & Training",
+    "text": "Certifications & Training\n\nMRI Safety Training (2024)\nGood Clinical Practice (GCP)\nCITI Program - Human Subjects Research\nLaboratory Safety Certification"
+  },
+  {
+    "objectID": "skills.html#languages",
+    "href": "skills.html#languages",
+    "title": "Technical Skills",
+    "section": "Languages",
+    "text": "Languages\n\nEnglish: Fluent (Academic and professional)\nChinese (Mandarin): Native speaker\nTechnical Documentation: Experienced in both languages"
+  },
+  {
+    "objectID": "skills.html#currently-learning",
+    "href": "skills.html#currently-learning",
+    "title": "Technical Skills",
+    "section": "Currently Learning",
+    "text": "Currently Learning\nI’m always expanding my skill set. Currently focusing on:\n\nCloud Computing: AWS for medical image processing pipelines\nAdvanced Deep Learning: Transformer models for medical imaging\nCardiac Modeling: Computational modeling of cardiac electrophysiology\nRegulatory Standards: FDA guidelines for medical software"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "I am a graduate student in Biomedical Engineering at Case Western Reserve University, with dual bachelor’s degrees in Biomedical Engineering and Computer Science. Currently, I am conducting research at the Cardiovascular Innovation Research Center (CIRC) at Cleveland Clinic Foundation, where I collaborate with Siemens technical specialists on advanced cardiac MRI data processing and analysis.\nMy research focuses on developing next-generation cardiac diffusion tensor imaging (DTI) techniques and integrating machine learning approaches into cardiovascular imaging applications. I am passionate about leveraging computational methods to solve complex biomedical challenges, particularly in medical imaging and cardiac health.\nWith strong expertise in Python and Java programming, I combine my engineering background with clinical applications to advance the field of cardiac imaging. I am dedicated to translating novel technologies into practical clinical solutions that can improve patient care."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome",
+    "section": "",
+    "text": "I am a graduate student in Biomedical Engineering at Case Western Reserve University, with dual bachelor’s degrees in Biomedical Engineering and Computer Science. Currently, I am conducting research at the Cardiovascular Innovation Research Center (CIRC) at Cleveland Clinic Foundation, where I collaborate with Siemens technical specialists on advanced cardiac MRI data processing and analysis.\nMy research focuses on developing next-generation cardiac diffusion tensor imaging (DTI) techniques and integrating machine learning approaches into cardiovascular imaging applications. I am passionate about leveraging computational methods to solve complex biomedical challenges, particularly in medical imaging and cardiac health.\nWith strong expertise in Python and Java programming, I combine my engineering background with clinical applications to advance the field of cardiac imaging. I am dedicated to translating novel technologies into practical clinical solutions that can improve patient care."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Welcome",
+    "section": "Research Interests",
+    "text": "Research Interests\n\n\n\nMedical Imaging\n\nCardiac Diffusion Tensor Imaging (DTI)\nMRI Sequence Optimization\nImage Reconstruction Algorithms\nMedical Image Segmentation\n\n\n\n\nComputational Methods\n\nDeep Learning for Medical Images\nSignal Processing\nData Analysis Pipelines\nClinical Software Development"
+  },
+  {
+    "objectID": "index.html#current-focus",
+    "href": "index.html#current-focus",
+    "title": "Welcome",
+    "section": "Current Focus",
+    "text": "Current Focus\nI am currently working on cardiac MRI diffusion tensor imaging analysis at Cleveland Clinic, collaborating with industry partners to develop innovative solutions for:\n\nMyocardial fiber architecture assessment\nAutomated cardiac segmentation\nClinical workflow optimization\nMachine learning integration in cardiac imaging"
+  },
+  {
+    "objectID": "index.html#recent-news",
+    "href": "index.html#recent-news",
+    "title": "Welcome",
+    "section": "Recent News",
+    "text": "Recent News\n\nAugust 2024: Joined the Cardiovascular Innovation Research Center at Cleveland Clinic\nMay 2024: Completed dual bachelor’s degrees in BME and CS from CWRU\nJanuary 2024: Started research on automatic skull stripping for mouse brain MRI"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research Experience",
+    "section": "",
+    "text": "Cardiovascular Innovation Research Center, Cleveland Clinic Foundation\nAugust 2024 – Present\nAdvisor: Dr. Christopher Nguyen\n\n\n\nI am working at the intersection of cardiology, biomedical engineering, and radiology to develop advanced cardiac MRI data processing techniques. This research is part of CIRC’s mission to rapidly translate novel technologies into clinical applications.\n\n\n\n\nIndustry Collaboration: Working directly with Siemens technical specialists to develop and optimize cardiac MRI data processing pipelines for diffusion tensor imaging (DTI) analysis\nAlgorithm Development: Implementing advanced image reconstruction algorithms to improve the quality and accuracy of diffusion-weighted cardiac MRI sequences\nClinical Application: Processing and analyzing cardiac DTI datasets to evaluate myocardial fiber architecture and assess cardiac microstructure changes in various pathological conditions\nAutomation Tools: Developing Python-based tools for automated helix angle calculation and transmural fiber orientation mapping in cardiac tissue\nMachine Learning Integration: Implementing deep learning techniques to enhance cardiac segmentation and automate ROI selection in DTI analysis workflows\nClinical Validation: Working with clinical datasets to validate novel DTI metrics for assessment of myocardial remodeling and fibrosis\n\n\n\n\n\nSoftware: INDI cardiac imaging platform, 3D Slicer, MATLAB\nProgramming: Python (primary), MATLAB for signal processing\nLibraries: TensorFlow, OpenCV, NumPy, SciPy\nData Format: DICOM, NIfTI"
+  },
+  {
+    "objectID": "research.html#current-research",
+    "href": "research.html#current-research",
+    "title": "Research Experience",
+    "section": "",
+    "text": "Cardiovascular Innovation Research Center, Cleveland Clinic Foundation\nAugust 2024 – Present\nAdvisor: Dr. Christopher Nguyen\n\n\n\nI am working at the intersection of cardiology, biomedical engineering, and radiology to develop advanced cardiac MRI data processing techniques. This research is part of CIRC’s mission to rapidly translate novel technologies into clinical applications.\n\n\n\n\nIndustry Collaboration: Working directly with Siemens technical specialists to develop and optimize cardiac MRI data processing pipelines for diffusion tensor imaging (DTI) analysis\nAlgorithm Development: Implementing advanced image reconstruction algorithms to improve the quality and accuracy of diffusion-weighted cardiac MRI sequences\nClinical Application: Processing and analyzing cardiac DTI datasets to evaluate myocardial fiber architecture and assess cardiac microstructure changes in various pathological conditions\nAutomation Tools: Developing Python-based tools for automated helix angle calculation and transmural fiber orientation mapping in cardiac tissue\nMachine Learning Integration: Implementing deep learning techniques to enhance cardiac segmentation and automate ROI selection in DTI analysis workflows\nClinical Validation: Working with clinical datasets to validate novel DTI metrics for assessment of myocardial remodeling and fibrosis\n\n\n\n\n\nSoftware: INDI cardiac imaging platform, 3D Slicer, MATLAB\nProgramming: Python (primary), MATLAB for signal processing\nLibraries: TensorFlow, OpenCV, NumPy, SciPy\nData Format: DICOM, NIfTI"
+  },
+  {
+    "objectID": "research.html#previous-research",
+    "href": "research.html#previous-research",
+    "title": "Research Experience",
+    "section": "Previous Research",
+    "text": "Previous Research\n\nAutomatic Skull Stripping for Mouse Brain MRI\nDepartment of Biomedical Engineering, Case Western Reserve University\nJanuary 2024 – May 2025\nAdvisor: Dr. Xin Yu\n\n\nProject Overview\nDeveloped a deep learning-based solution for automated skull stripping in preclinical neuroimaging studies, addressing a critical bottleneck in mouse brain MRI analysis pipelines.\n\n\nKey Achievements\n\nHigh Accuracy: Achieved 95% accuracy in validation datasets using a custom U-Net architecture\nPerformance Optimization: Reduced processing time by 70% compared to traditional methods\nRobust Pipeline: Created a comprehensive preprocessing pipeline to standardize MRI data from different acquisition protocols and scanner types\nClinical Validation: Validated against manual segmentation by expert annotators, demonstrating superior consistency and reproducibility\nUser Interface: Developed a user-friendly Python interface for batch processing of large neuroimaging datasets\n\n\n\nTechnical Implementation\n# Example workflow\n- Data preprocessing and standardization\n- 3D U-Net model for segmentation\n- Post-processing refinement\n- Automated quality assessment\n- Batch processing capabilities\n\n\nImpact\nThis tool is now being used by multiple research groups for high-throughput analysis of mouse brain MRI data, significantly accelerating preclinical neuroimaging studies."
+  },
+  {
+    "objectID": "research.html#other-projects",
+    "href": "research.html#other-projects",
+    "title": "Research Experience",
+    "section": "Other Projects",
+    "text": "Other Projects\n\nWound Care Chatbot\nSenior Design Project, CWRU\nAugust 2023 – May 2024\nAdvisors: Dr. Matthew Williams & Dr. Colin Drummond\n\nDeveloped an intelligent chatbot system using NLP for tailored wound care guidance\nIntegrated medical best practices into the response framework\nDesigned user-friendly interface for diverse patient populations\n\n\n\nMuscle Force Measurement Tool with LED Indication\nBiomedical Instrumentation Project\nJanuary 2023 – May 2023\nAdvisor: Dr. Matthew Williams\n\nCreated real-time muscle force measurement device with visual LED feedback\nImplemented signal processing for accurate force-to-visual translation\nValidated in clinical and sports training scenarios"
+  },
+  {
+    "objectID": "research.html#research-skills",
+    "href": "research.html#research-skills",
+    "title": "Research Experience",
+    "section": "Research Skills",
+    "text": "Research Skills\n\n\n\nMedical Imaging\n\nMRI sequence programming\nDTI analysis\nImage segmentation\n3D visualization\n\n\n\n\nData Analysis\n\nStatistical modeling\nSignal processing\nMachine learning\nBig data processing\n\n\n\n\nSoftware Development\n\nPipeline automation\nGUI development\nClinical software\nVersion control"
+  },
+  {
+    "objectID": "research.html#publications-presentations",
+    "href": "research.html#publications-presentations",
+    "title": "Research Experience",
+    "section": "Publications & Presentations",
+    "text": "Publications & Presentations\nManuscripts in preparation - Details coming soon"
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research Experience",
+    "section": "Research Interests",
+    "text": "Research Interests\nI am interested in advancing medical imaging technologies through computational methods, with particular focus on:\n\nCardiac diffusion tensor imaging and microstructure analysis\nMachine learning applications in medical image processing\nClinical translation of novel imaging biomarkers\nAutomation of medical image analysis workflows"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Experience",
+    "section": "",
+    "text": "I believe in creating an inclusive and engaging learning environment where students feel empowered to explore complex concepts through hands-on experience and collaborative problem-solving. My teaching approach emphasizes practical applications, clear communication, and individualized support to help each student reach their full potential."
+  },
+  {
+    "objectID": "teaching.html#teaching-philosophy",
+    "href": "teaching.html#teaching-philosophy",
+    "title": "Teaching Experience",
+    "section": "",
+    "text": "I believe in creating an inclusive and engaging learning environment where students feel empowered to explore complex concepts through hands-on experience and collaborative problem-solving. My teaching approach emphasizes practical applications, clear communication, and individualized support to help each student reach their full potential."
+  },
+  {
+    "objectID": "teaching.html#teaching-appointments",
+    "href": "teaching.html#teaching-appointments",
+    "title": "Teaching Experience",
+    "section": "Teaching Appointments",
+    "text": "Teaching Appointments\n\nLead Teaching Assistant\n\nMATH 302: Discrete Mathematics\nCase Western Reserve University | Summer 2024\n\nResponsibilities: - Provided comprehensive support for advanced mathematical concepts including graph theory, combinatorics, and algorithm analysis - Conducted weekly office hours offering individualized problem-solving guidance - Developed supplementary materials and practice problems to enhance student understanding - Graded all assignments, quizzes, and exams with detailed feedback\nImpact: - Helped improve class average by 15% through targeted review sessions - Received positive feedback from students for clear explanations of complex topics - Created a comprehensive study guide that was adopted for future semesters\n\n\n\n\n\nTeaching Assistant\n\nENGR 210: Introduction to Circuits and Instrumentation\nCase Western Reserve University | Spring 2023 – Spring 2025\n\nResponsibilities: - Facilitated hands-on laboratory sessions for 60+ students across multiple sections - Demonstrated experimental setups including oscilloscopes, function generators, and multimeters - Ensured adherence to safety protocols in electrical engineering labs - Provided real-time troubleshooting support during experiments\nKey Contributions: - Developed visual aids and quick reference guides for common circuit configurations - Implemented a peer-mentoring system that improved lab completion rates - Created video tutorials for remote learners during hybrid instruction periods\nTopics Covered: - Basic circuit analysis (Ohm’s Law, Kirchhoff’s Laws) - AC/DC circuit behavior - Operational amplifiers - Digital logic circuits - Instrumentation and measurement techniques\n\n\n\n\n\nTeaching Assistant\n\nEBME 360: Biomedical Instrumentation Laboratory\nCase Western Reserve University | Spring 2024\n\nResponsibilities: - Guided students through advanced biomedical instrumentation techniques - Supervised experiments involving physiological signal acquisition and processing - Taught proper use of specialized equipment (ECG, EMG, pulse oximeters) - Evaluated laboratory reports and provided constructive feedback\nLaboratory Modules: - Biopotential measurements (ECG, EMG, EEG) - Biomedical transducers and sensors - Signal conditioning and filtering - Digital signal processing for biomedical applications - Medical device safety and standards\nAchievements: - Redesigned lab protocols to improve clarity and reduce completion time - Mentored student teams on final instrumentation design projects - Contributed to curriculum updates based on student feedback"
+  },
+  {
+    "objectID": "teaching.html#teaching-skills-methods",
+    "href": "teaching.html#teaching-skills-methods",
+    "title": "Teaching Experience",
+    "section": "Teaching Skills & Methods",
+    "text": "Teaching Skills & Methods\n\n\n\nInstructional Techniques\n\nActive learning strategies\nProblem-based learning\nFlipped classroom concepts\nCollaborative group work\nOne-on-one mentoring\n\n\n\n\nTechnical Proficiencies\n\nLaboratory equipment training\nSoftware demonstrations (MATLAB, Python)\nCircuit simulation tools\nData analysis techniques\nSafety protocol implementation"
+  },
+  {
+    "objectID": "teaching.html#student-feedback",
+    "href": "teaching.html#student-feedback",
+    "title": "Teaching Experience",
+    "section": "Student Feedback",
+    "text": "Student Feedback\n\n“Jiakun was incredibly helpful during lab sessions. He explained complex concepts in a way that made them easy to understand.” - ENGR 210 Student\n\n\n“The supplementary materials and study guides were game-changers for exam preparation.” - MATH 302 Student\n\n\n“Best TA I’ve had - always available for questions and genuinely cares about student success.” - EBME 360 Student"
+  },
+  {
+    "objectID": "teaching.html#mentorship",
+    "href": "teaching.html#mentorship",
+    "title": "Teaching Experience",
+    "section": "Mentorship",
+    "text": "Mentorship\n\nSenior Design Project Mentoring\n\nAdvised junior students on biomedical engineering capstone projects\nProvided guidance on experimental design and data analysis\nAssisted with technical writing and presentation skills\n\n\n\nPeer Tutoring\n\nVolunteered as peer tutor for undergraduate BME courses\nSpecialized in signal processing and programming assistance\nHelped international students adapt to US academic environment"
+  },
+  {
+    "objectID": "teaching.html#teaching-interests",
+    "href": "teaching.html#teaching-interests",
+    "title": "Teaching Experience",
+    "section": "Teaching Interests",
+    "text": "Teaching Interests\nI am interested in teaching courses related to:\n\nBiomedical Imaging: From basic principles to advanced techniques\nSignal Processing: Digital signal processing for biomedical applications\nProgramming for Engineers: Python and MATLAB for scientific computing\nMedical Device Design: From concept to clinical implementation\nMachine Learning in Medicine: Applications and implementation"
+  },
+  {
+    "objectID": "teaching.html#professional-development-in-education",
+    "href": "teaching.html#professional-development-in-education",
+    "title": "Teaching Experience",
+    "section": "Professional Development in Education",
+    "text": "Professional Development in Education\n\nWorkshops Attended\n\n“Effective Teaching in STEM” - CWRU Center for Teaching Excellence\n“Inclusive Teaching Practices” - Engineering Education Workshop\n“Laboratory Safety Training for TAs” - Annual certification\n\n\n\nFuture Goals\nI aim to continue developing my teaching skills and eventually design my own courses that bridge the gap between engineering theory and clinical practice. I am particularly interested in creating interdisciplinary courses that combine medical imaging, machine learning, and clinical applications."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I’m always interested in discussing research collaborations, academic opportunities, or innovative projects in biomedical imaging and machine learning. Feel free to reach out!"
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact",
+    "section": "",
+    "text": "I’m always interested in discussing research collaborations, academic opportunities, or innovative projects in biomedical imaging and machine learning. Feel free to reach out!"
+  },
+  {
+    "objectID": "contact.html#contact-information",
+    "href": "contact.html#contact-information",
+    "title": "Contact",
+    "section": "Contact Information",
+    "text": "Contact Information\n\n\n📧 Email\nPrimary: jxw1329@case.edu\nBest for academic and research inquiries\n\n\n📱 Phone\nMobile: (216) 340-3655\nAvailable for urgent matters\n\n\n📍 Location\nCurrent: Cleveland, OH, USA\nInstitution: Case Western Reserve University\nResearch Site: Cleveland Clinic Foundation"
+  },
+  {
+    "objectID": "contact.html#professional-profiles",
+    "href": "contact.html#professional-profiles",
+    "title": "Contact",
+    "section": "Professional Profiles",
+    "text": "Professional Profiles\n\n\nLinkedIn\nlinkedin.com/in/jiakunwang\nConnect for professional networking\n\n\nGoogle Scholar\nProfile coming soon\nResearch publications and citations"
+  },
+  {
+    "objectID": "contact.html#office-location",
+    "href": "contact.html#office-location",
+    "title": "Contact",
+    "section": "Office Location",
+    "text": "Office Location\n\nResearch Location\nCardiovascular Innovation Research Center (CIRC)\nCleveland Clinic Foundation\n9500 Euclid Avenue\nCleveland, OH 44195"
+  },
+  {
+    "objectID": "contact.html#preferred-contact-methods",
+    "href": "contact.html#preferred-contact-methods",
+    "title": "Contact",
+    "section": "Preferred Contact Methods",
+    "text": "Preferred Contact Methods\n\n\n\nFor Quick Questions\n\nEmail for general inquiries\nLinkedIn for professional networking\nGitHub for code-related discussions\n\n\n\n\nFor Detailed Discussions\n\nSchedule a virtual meeting via email\nIn-person meetings at CWRU or Cleveland Clinic\nPhone calls for urgent matters"
+  },
+  {
+    "objectID": "contact.html#response-time",
+    "href": "contact.html#response-time",
+    "title": "Contact",
+    "section": "Response Time",
+    "text": "Response Time\nI typically respond to emails within 24-48 hours during weekdays. For urgent matters, please indicate so in your email subject line or contact me via phone."
+  },
+  {
+    "objectID": "contact.html#collaboration-interests",
+    "href": "contact.html#collaboration-interests",
+    "title": "Contact",
+    "section": "Collaboration Interests",
+    "text": "Collaboration Interests\nI’m particularly interested in collaborating on:\n\nCardiac Imaging Projects: DTI, perfusion imaging, strain analysis\nMachine Learning Applications: Medical image segmentation, prediction models\nClinical Translation: Bringing research innovations to clinical practice\nOpen Source Development: Medical imaging software tools"
+  },
+  {
+    "objectID": "contact.html#for-students",
+    "href": "contact.html#for-students",
+    "title": "Contact",
+    "section": "For Students",
+    "text": "For Students\nIf you’re a student interested in: - Research opportunities in medical imaging - Guidance on coursework or projects - Career advice in biomedical engineering\nPlease feel free to reach out! Include: - Your current program and year - Specific interests or questions - Your CV/resume if relevant"
+  },
+  {
+    "objectID": "contact.html#download-cv",
+    "href": "contact.html#download-cv",
+    "title": "Contact",
+    "section": "Download CV",
+    "text": "Download CV\n📄 Download my complete CV (PDF)\nLast updated: December 2024"
+  },
+  {
+    "objectID": "contact.html#send-a-message",
+    "href": "contact.html#send-a-message",
+    "title": "Contact",
+    "section": "Send a Message",
+    "text": "Send a Message\n\nFor direct contact, please use the email address above. I look forward to hearing from you!"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
+    "section": "",
+    "text": "Case Western Reserve University | Cleveland, OH\nAugust 2024 – Present (Expected: May 2026)\n\n\n\nEBME 410: Medical Imaging Fundamentals\nEBME 434: Methodologies for Modeling Physiological Systems\nEBME 431: Physics of Imaging\nPQHS 431: Statistical Methods I\n\n\n\n\n\nCardiac Diffusion Tensor Imaging\nMedical Image Processing\nCardiovascular Engineering"
+  },
+  {
+    "objectID": "education.html#graduate-education",
+    "href": "education.html#graduate-education",
+    "title": "Education",
+    "section": "",
+    "text": "Case Western Reserve University | Cleveland, OH\nAugust 2024 – Present (Expected: May 2026)\n\n\n\nEBME 410: Medical Imaging Fundamentals\nEBME 434: Methodologies for Modeling Physiological Systems\nEBME 431: Physics of Imaging\nPQHS 431: Statistical Methods I\n\n\n\n\n\nCardiac Diffusion Tensor Imaging\nMedical Image Processing\nCardiovascular Engineering"
+  },
+  {
+    "objectID": "education.html#undergraduate-education",
+    "href": "education.html#undergraduate-education",
+    "title": "Education",
+    "section": "Undergraduate Education",
+    "text": "Undergraduate Education\n\nBachelor of Science in Engineering, Biomedical Engineering\nCase Western Reserve University | Cleveland, OH\nAugust 2020 – May 2024\n\nKey Coursework\n\nBiomedical Signals and Systems\nMedical Imaging\nBiomechanics\nTissue Engineering\nBiomedical Instrumentation\n\n\n\n\n\nBachelor of Arts, Computer Science\nCase Western Reserve University | Cleveland, OH\nAugust 2020 – May 2024\n\nKey Coursework\n\nData Structures and Algorithms\nMachine Learning\nDatabase Systems\nSoftware Engineering\nComputer Networks"
+  },
+  {
+    "objectID": "education.html#relevant-coursework-details",
+    "href": "education.html#relevant-coursework-details",
+    "title": "Education",
+    "section": "Relevant Coursework Details",
+    "text": "Relevant Coursework Details\n\nSelected Undergraduate Projects\n\nSilicon Chip Design and Fabrication\nFall 2024 - Developed custom silicon chip architecture for high-performance computing - Utilized EDA tools for design, simulation, and verification - Achieved 95% yield rate in post-fabrication testing\n\n\nMachine Learning for Human Activity Recognition\nFall 2024 - Developed ML model using mobile sensor data - Implemented Random Forest and Neural Networks - Achieved &gt;90% accuracy in activity classification"
+  },
+  {
+    "objectID": "education.html#academic-achievements",
+    "href": "education.html#academic-achievements",
+    "title": "Education",
+    "section": "Academic Achievements",
+    "text": "Academic Achievements\n\n\n\nTechnical Skills Developed\n\nProgramming: Python, Java, MATLAB, R, C++\nMedical Imaging Software\nStatistical Analysis\nMachine Learning\nSignal Processing\n\n\n\n\nResearch Training\n\nScientific Writing\nExperimental Design\nData Analysis\nProject Management\nTechnical Presentations"
+  },
+  {
+    "objectID": "education.html#professional-development",
+    "href": "education.html#professional-development",
+    "title": "Education",
+    "section": "Professional Development",
+    "text": "Professional Development\n\nWorkshops & Training\n\nMRI Safety Training (2024)\nGood Clinical Practice (GCP) Certification\nMATLAB for Medical Image Processing\nAdvanced Python for Data Science\n\n\n\nProfessional Organizations\n\nIEEE Engineering in Medicine and Biology Society (EMBS)\nInternational Society for Magnetic Resonance in Medicine (ISMRM) - Student Member\nBiomedical Engineering Society (BMES)"
+  },
+  {
+    "objectID": "education.html#future-goals",
+    "href": "education.html#future-goals",
+    "title": "Education",
+    "section": "Future Goals",
+    "text": "Future Goals\nI aim to pursue a career at the intersection of medical imaging and artificial intelligence, focusing on:\n\nDeveloping novel cardiac imaging biomarkers\nTranslating research innovations into clinical practice\nAdvancing AI-driven medical image analysis\nContributing to precision medicine through imaging\n\nMy graduate education at CWRU and research experience at Cleveland Clinic are preparing me to make significant contributions to the field of biomedical imaging."
+  }
+]

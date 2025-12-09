@@ -1,0 +1,118 @@
+---
+title: "Education"
+---
+
+## Graduate Education
+
+### Master of Science in Biomedical Engineering
+**Case Western Reserve University** | Cleveland, OH  
+*August 2024 – Present (Expected: May 2026)*
+
+#### Current Coursework
+- EBME 410: Medical Imaging Fundamentals
+- EBME 434: Methodologies for Modeling Physiological Systems
+- EBME 431: Physics of Imaging
+- PQHS 431: Statistical Methods I
+
+#### Research Focus
+- Cardiac Diffusion Tensor Imaging
+- Medical Image Processing
+- Cardiovascular Engineering
+
+---
+
+## Undergraduate Education
+
+### Bachelor of Science in Engineering, Biomedical Engineering
+**Case Western Reserve University** | Cleveland, OH  
+*August 2020 – May 2024*
+
+#### Key Coursework
+- Biomedical Signals and Systems
+- Medical Imaging
+- Biomechanics
+- Tissue Engineering
+- Biomedical Instrumentation
+
+---
+
+### Bachelor of Arts, Computer Science
+**Case Western Reserve University** | Cleveland, OH  
+*August 2020 – May 2024*
+
+#### Key Coursework
+- Data Structures and Algorithms
+- Machine Learning
+- Database Systems
+- Software Engineering
+- Computer Networks
+
+---
+
+## Relevant Coursework Details
+
+### Selected Undergraduate Projects
+
+#### Silicon Chip Design and Fabrication
+*Fall 2024*
+- Developed custom silicon chip architecture for high-performance computing
+- Utilized EDA tools for design, simulation, and verification
+- Achieved 95% yield rate in post-fabrication testing
+
+#### Machine Learning for Human Activity Recognition
+*Fall 2024*
+- Developed ML model using mobile sensor data
+- Implemented Random Forest and Neural Networks
+- Achieved >90% accuracy in activity classification
+
+---
+
+## Academic Achievements
+
+:::: {.columns}
+::: {.column width="50%"}
+### Technical Skills Developed
+- Programming: Python, Java, MATLAB, R, C++
+- Medical Imaging Software
+- Statistical Analysis
+- Machine Learning
+- Signal Processing
+:::
+
+::: {.column width="50%"}
+### Research Training
+- Scientific Writing
+- Experimental Design
+- Data Analysis
+- Project Management
+- Technical Presentations
+:::
+::::
+
+---
+
+## Professional Development
+
+### Workshops & Training
+- MRI Safety Training (2024)
+- Good Clinical Practice (GCP) Certification
+- MATLAB for Medical Image Processing
+- Advanced Python for Data Science
+
+### Professional Organizations
+- IEEE Engineering in Medicine and Biology Society (EMBS)
+- International Society for Magnetic Resonance in Medicine (ISMRM) - Student Member
+- Biomedical Engineering Society (BMES)
+
+---
+
+## Future Goals
+
+I aim to pursue a career at the intersection of medical imaging and artificial intelligence, focusing on:
+
+1. Developing novel cardiac imaging biomarkers
+2. Translating research innovations into clinical practice
+3. Advancing AI-driven medical image analysis
+4. Contributing to precision medicine through imaging
+
+My graduate education at CWRU and research experience at Cleveland Clinic are preparing me to make significant contributions to the field of biomedical imaging.

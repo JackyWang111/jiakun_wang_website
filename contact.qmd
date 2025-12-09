@@ -1,0 +1,87 @@
+---
+title: "Contact"
+---
+
+## Get in Touch
+
+I'm always interested in discussing research collaborations, academic opportunities, or innovative projects in biomedical imaging and machine learning. Feel free to reach out!
+
+---
+
+## Contact Information
+
+<div class="contact-cards">
+
+### 📧 Email
+**Primary**: [jxw1329@case.edu](mailto:jxw1329@case.edu)  
+*Best for academic and research inquiries*
+
+### 📱 Phone
+**Mobile**: (216) 340-3655  
+*Available for urgent matters*
+
+### 📍 Location
+**Current**: Cleveland, OH, USA  
+**Institution**: Case Western Reserve University  
+**Research Site**: Cleveland Clinic Foundation
+
+</div>
+
+---
+
+## Professional Profiles
+
+<div class="social-links">
+
+### LinkedIn
+[linkedin.com/in/jiakunwang](https://www.linkedin.com/in/jiakunwang)  
+*Connect for professional networking*
+
+### Google Scholar
+*Profile coming soon*  
+*Research publications and citations*
+
+</div>
+
+---
+
+## Office Location
+
+### Research Location
+**Cardiovascular Innovation Research Center (CIRC)**  
+Cleveland Clinic Foundation  
+9500 Euclid Avenue  
+Cleveland, OH 44195
+
+---
+
+## Response Time
+
+I typically respond to emails within **24-48 hours** during weekdays. For urgent matters, please indicate so in your email subject line or contact me via phone.
+
+---
+
+## Collaboration Interests
+
+I'm particularly interested in collaborating on:
+
+- **Cardiac Imaging Projects**: DTI, perfusion imaging, strain analysis
+- **Machine Learning Applications**: Medical image segmentation, prediction models
+- **Clinical Translation**: Bringing research innovations to clinical practice
+- **Open Source Development**: Medical imaging software tools
+
+---
+
+## Download CV
+
+📄 [Download my complete CV (PDF)](Jiakun_Wang_CV.pdf)
+
+*Last updated: December 2024*
+
+---
+
+## Send a Message
+
+<div class="contact-form-note">
+*For direct contact, please use the email address above. I look forward to hearing from you!*
+</div>

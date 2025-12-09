@@ -1,0 +1,398 @@
+/* Custom CSS for Jiakun Wang's Professional Website */
+
+/* Color Scheme */
+:root {
+  --primary-color: #2c5aa0;
+  --secondary-color: #1e88e5;
+  --accent-color: #ff6b6b;
+  --text-dark: #2c3e50;
+  --text-light: #6c757d;
+  --background-light: #f8f9fa;
+  --border-color: #dee2e6;
+  --success-color: #28a745;
+  --card-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Dark mode colors */
+[data-bs-theme="dark"] {
+  --primary-color: #4a90e2;
+  --secondary-color: #64b5f6;
+  --text-dark: #e9ecef;
+  --text-light: #adb5bd;
+  --background-light: #1a1a1a;
+  --border-color: #495057;
+}
+
+/* Typography improvements */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.7;
+  color: var(--text-dark);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: var(--primary-color);
+}
+
+h1 {
+  font-size: 2.5rem;
+  border-bottom: 3px solid var(--primary-color);
+  padding-bottom: 0.5rem;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-top: 2.5rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+  color: var(--secondary-color);
+}
+
+h4 {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+/* Navigation bar styling */
+.navbar {
+  box-shadow: 0 2px 4px rgba(0,0,0,.1);
+  padding: 1rem 0;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
+.navbar-nav .nav-link {
+  margin: 0 0.5rem;
+  transition: all 0.3s ease;
+  border-radius: 5px;
+  padding: 0.5rem 1rem !important;
+}
+
+.navbar-nav .nav-link:hover {
+  background-color: var(--background-light);
+  color: var(--primary-color) !important;
+}
+
+/* About section on homepage */
+.about-links {
+  margin-top: 1.5rem;
+}
+
+.about-links a {
+  margin: 0.5rem;
+  padding: 0.5rem 1rem;
+  border-radius: 25px;
+  transition: all 0.3s ease;
+}
+
+/* Research project cards */
+.research-project {
+  background: var(--background-light);
+  border-left: 4px solid var(--primary-color);
+  padding: 1.5rem;
+  margin: 2rem 0;
+  border-radius: 0 8px 8px 0;
+  box-shadow: var(--card-shadow);
+}
+
+.research-project h4 {
+  color: var(--primary-color);
+  margin-top: 1rem;
+}
+
+/* Teaching role cards */
+.teaching-role {
+  background: white;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+  box-shadow: var(--card-shadow);
+}
+
+[data-bs-theme="dark"] .teaching-role {
+  background: var(--background-light);
+}
+
+/* Skills section */
+.skill-detail {
+  background: var(--background-light);
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 8px;
+  border-left: 3px solid var(--secondary-color);
+}
+
+/* Contact cards */
+.contact-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.contact-cards > div {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: var(--card-shadow);
+  transition: transform 0.3s ease;
+}
+
+[data-bs-theme="dark"] .contact-cards > div {
+  background: var(--background-light);
+}
+
+.contact-cards > div:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Social links */
+.social-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.social-links > div {
+  flex: 1;
+  min-width: 200px;
+  padding: 1rem;
+  background: var(--background-light);
+  border-radius: 8px;
+  text-align: center;
+}
+
+/* Code blocks */
+pre {
+  background: #2d2d2d;
+  color: #f8f8f2;
+  padding: 1rem;
+  border-radius: 8px;
+  overflow-x: auto;
+}
+
+code {
+  background: var(--background-light);
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+  color: var(--accent-color);
+}
+
+pre code {
+  background: none;
+  color: inherit;
+  padding: 0;
+}
+
+/* Lists in columns */
+.columns {
+  margin: 2rem 0;
+}
+
+.column ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.column ul li {
+  padding: 0.5rem 0;
+  padding-left: 1.5rem;
+  position: relative;
+}
+
+.column ul li:before {
+  content: "▸";
+  color: var(--primary-color);
+  font-weight: bold;
+  position: absolute;
+  left: 0;
+}
+
+/* Blockquotes for testimonials */
+blockquote {
+  border-left: 4px solid var(--primary-color);
+  padding-left: 1rem;
+  margin: 1.5rem 0;
+  font-style: italic;
+  color: var(--text-light);
+}
+
+/* Buttons and links */
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+a:hover {
+  color: var(--secondary-color);
+  text-decoration: underline;
+}
+
+.btn {
+  border-radius: 25px;
+  padding: 0.5rem 1.5rem;
+  transition: all 0.3s ease;
+}
+
+.btn-primary {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+
+.btn-primary:hover {
+  background-color: var(--secondary-color);
+  border-color: var(--secondary-color);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Footer */
+.page-footer {
+  margin-top: 4rem;
+  padding: 2rem 0;
+  border-top: 1px solid var(--border-color);
+}
+
+/* Responsive images */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+/* Profile image on about page */
+.about-image {
+  box-shadow: var(--card-shadow);
+  border: 4px solid white;
+}
+
+/* Skill level indicators */
+h3:contains("🌟") {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+  color: white;
+  border-radius: 25px;
+  font-size: 1.1rem;
+}
+
+/* Table styling */
+table {
+  width: 100%;
+  margin: 2rem 0;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 0.75rem;
+  text-align: left;
+}
+
+td {
+  padding: 0.75rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+tr:hover {
+  background-color: var(--background-light);
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Print styles */
+@media print {
+  .navbar, .page-footer {
+    display: none;
+  }
+  
+  h1, h2, h3 {
+    color: black;
+  }
+  
+  .research-project, .teaching-role {
+    box-shadow: none;
+    border: 1px solid #ddd;
+  }
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+  }
+  
+  .contact-cards {
+    grid-template-columns: 1fr;
+  }
+  
+  .columns {
+    display: block;
+  }
+  
+  .column {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+}
+
+/* Animation for page load */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+main {
+  animation: fadeIn 0.5s ease;
+}
+
+/* TOC styling */
+.toc {
+  background: var(--background-light);
+  padding: 1rem;
+  border-radius: 8px;
+  position: sticky;
+  top: 2rem;
+}
+
+.toc a {
+  display: block;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
+
+.toc a:hover {
+  background: white;
+  padding-left: 1rem;
+}
+
+[data-bs-theme="dark"] .toc a:hover {
+  background: var(--text-dark);
+}

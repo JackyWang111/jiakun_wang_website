@@ -1,0 +1,132 @@
+---
+title: "Research Experience"
+---
+
+## Current Research
+
+### Cardiac MRI Diffusion Tensor Imaging Analysis
+**Cardiovascular Innovation Research Center, Cleveland Clinic Foundation**  
+*August 2024 – Present*  
+*Advisor: Dr. Christopher Nguyen*
+
+<div class="research-project">
+
+#### Project Overview
+I am working at the intersection of cardiology, biomedical engineering, and radiology to develop advanced cardiac MRI data processing techniques. This research is part of CIRC's mission to rapidly translate novel technologies into clinical applications.
+
+#### Key Contributions
+- **Industry Collaboration**: Working directly with Siemens technical specialists to develop and optimize cardiac MRI data processing pipelines for diffusion tensor imaging (DTI) analysis
+- **Algorithm Development**: Implementing advanced image reconstruction algorithms to improve the quality and accuracy of diffusion-weighted cardiac MRI sequences
+- **Clinical Application**: Processing and analyzing cardiac DTI datasets to evaluate myocardial fiber architecture and assess cardiac microstructure changes in various pathological conditions
+- **Automation Tools**: Developing Python-based tools for automated helix angle calculation and transmural fiber orientation mapping in cardiac tissue
+- **Machine Learning Integration**: Implementing deep learning techniques to enhance cardiac segmentation and automate ROI selection in DTI analysis workflows
+- **Clinical Validation**: Working with clinical datasets to validate novel DTI metrics for assessment of myocardial remodeling and fibrosis
+
+#### Technical Stack
+- **Software**: INDI cardiac imaging platform, 3D Slicer, MATLAB
+- **Programming**: Python (primary), MATLAB for signal processing
+- **Libraries**: TensorFlow, OpenCV, NumPy, SciPy
+- **Data Format**: DICOM, NIfTI
+
+</div>
+
+---
+
+## Previous Research
+
+### Automatic Skull Stripping for Mouse Brain MRI
+**Department of Biomedical Engineering, Case Western Reserve University**  
+*January 2024 – May 2025*  
+*Advisor: Dr. Xin Yu*
+
+<div class="research-project">
+
+#### Project Overview
+Developed a deep learning-based solution for automated skull stripping in preclinical neuroimaging studies, addressing a critical bottleneck in mouse brain MRI analysis pipelines.
+
+#### Key Achievements
+- **High Accuracy**: Achieved 95% accuracy in validation datasets using a custom U-Net architecture
+- **Performance Optimization**: Reduced processing time by 70% compared to traditional methods
+- **Robust Pipeline**: Created a comprehensive preprocessing pipeline to standardize MRI data from different acquisition protocols and scanner types
+- **Clinical Validation**: Validated against manual segmentation by expert annotators, demonstrating superior consistency and reproducibility
+- **User Interface**: Developed a user-friendly Python interface for batch processing of large neuroimaging datasets
+
+#### Technical Implementation
+```python
+# Example workflow
+- Data preprocessing and standardization
+- 3D U-Net model for segmentation
+- Post-processing refinement
+- Automated quality assessment
+- Batch processing capabilities
+```
+
+#### Impact
+This tool is now being used by multiple research groups for high-throughput analysis of mouse brain MRI data, significantly accelerating preclinical neuroimaging studies.
+
+</div>
+
+---
+
+## Other Projects
+
+### Wound Care Chatbot
+**Senior Design Project, CWRU**  
+*August 2023 – May 2024*  
+*Advisors: Dr. Matthew Williams & Dr. Colin Drummond*
+
+- Developed an intelligent chatbot system using NLP for tailored wound care guidance
+- Integrated medical best practices into the response framework
+- Designed user-friendly interface for diverse patient populations
+
+### Muscle Force Measurement Tool with LED Indication
+**Biomedical Instrumentation Project**  
+*January 2023 – May 2023*  
+*Advisor: Dr. Matthew Williams*
+
+- Created real-time muscle force measurement device with visual LED feedback
+- Implemented signal processing for accurate force-to-visual translation
+- Validated in clinical and sports training scenarios
+
+---
+
+## Research Skills
+
+:::: {.columns}
+::: {.column width="33%"}
+### Medical Imaging
+- MRI sequence programming
+- DTI analysis
+- Image segmentation
+- 3D visualization
+:::
+
+::: {.column width="33%"}
+### Data Analysis
+- Statistical modeling
+- Signal processing
+- Machine learning
+- Big data processing
+:::
+
+::: {.column width="33%"}
+### Software Development
+- Pipeline automation
+- GUI development
+- Clinical software
+- Version control
+:::
+::::
+
+## Publications & Presentations
+
+*Manuscripts in preparation - Details coming soon*
+
+## Research Interests
+
+I am interested in advancing medical imaging technologies through computational methods, with particular focus on:
+
+- Cardiac diffusion tensor imaging and microstructure analysis
+- Machine learning applications in medical image processing
+- Clinical translation of novel imaging biomarkers
+- Automation of medical image analysis workflows

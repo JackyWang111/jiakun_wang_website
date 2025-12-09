@@ -1,0 +1,157 @@
+---
+title: "Technical Skills"
+---
+
+## Programming Languages
+
+### Expert Level 
+
+#### Python
+<div class="skill-detail">
+- **Applications**: Medical image processing, deep learning, data analysis, automation
+- **Key Libraries**: 
+  - **Medical Imaging**: SimpleITK, NiBabel, PyDicom
+  - **Machine Learning**: TensorFlow, PyTorch, Scikit-learn
+  - **Data Science**: NumPy, Pandas, SciPy, Matplotlib, Seaborn
+  - **Computer Vision**: OpenCV, scikit-image
+- **Projects**: Cardiac DTI analysis pipeline, Automatic skull stripping algorithm
+</div>
+
+#### Java
+<div class="skill-detail">
+- **Applications**: Software engineering, algorithm implementation, Android development
+- **Frameworks**: Spring, JavaFX for GUI development
+- **Projects**: Wound care chatbot backend, Data structures implementations
+</div>
+
+### Proficient Level 
+
+#### MATLAB
+<div class="skill-detail">
+- **Applications**: Signal processing, physiological modeling, image analysis
+- **Toolboxes**: Image Processing, Signal Processing, Statistics and Machine Learning
+</div>
+
+#### R
+<div class="skill-detail">
+- **Applications**: Statistical analysis, data visualization, reproducible research
+- **Packages**: tidyverse, ggplot2, caret, survival analysis
+</div>
+
+### Familiar Level 
+
+- **C**: System programming, embedded systems
+- **CUDA**: GPU programming for parallel processing
+- **SQL**: Database queries and management
+- **HTML/CSS**: Basic web development
+
+---
+
+## Medical Imaging & Analysis
+
+### Software Platforms
+:::: {.columns}
+::: {.column width="50%"}
+#### Clinical Software
+- **INDI**: Cardiac DTI processing and analysis
+- **3D Slicer**: Medical image visualization and analysis
+- **ITK-SNAP**: Segmentation and registration
+- **FSL**: Neuroimaging analysis
+:::
+
+::: {.column width="50%"}
+#### Development Tools
+- **SimpleITK**: Medical image processing library
+- **DICOM Toolkit**: DICOM file handling
+- **VTK**: 3D visualization
+- **ParaView**: Scientific visualization
+:::
+::::
+
+### Imaging Modalities Experience
+- **MRI**: Sequence programming, DTI, DWI, T1/T2 mapping
+- **CT**: Reconstruction algorithms, artifact correction
+- **Ultrasound**: Signal processing, image formation
+- **Microscopy**: Image analysis, cell tracking
+
+---
+
+## Machine Learning & AI
+
+### Deep Learning
+- **Frameworks**: TensorFlow, PyTorch, Keras
+- **Architectures**: U-Net, ResNet, Vision Transformers
+- **Applications**: Medical image segmentation, classification, registration
+
+### Classical ML
+- **Algorithms**: Random Forest, SVM, XGBoost
+- **Applications**: Feature extraction, predictive modeling, clustering
+
+### Computer Vision
+- **Libraries**: OpenCV, scikit-image
+- **Tasks**: Image preprocessing, feature detection, object tracking
+
+---
+
+## Data Science & Analytics
+
+### Statistical Analysis
+- Hypothesis testing
+- Regression modeling (linear, logistic, mixed-effects)
+- Bayesian analysis
+- Time series analysis
+- Survival analysis
+
+### Data Visualization
+- **Tools**: Matplotlib, Seaborn, Plotly, ggplot2
+- **Dashboards**: Streamlit, Dash
+- **Reports**: Quarto, Jupyter Notebooks
+
+### Big Data
+- **Processing**: Parallel computing, batch processing
+- **Storage**: HDF5, Zarr for large medical datasets
+- **Cloud**: Basic AWS, Google Cloud experience
+
+---
+
+## Laboratory & Hardware
+
+### Biomedical Instrumentation
+- Oscilloscopes, function generators, multimeters
+- Biopotential amplifiers (ECG, EMG, EEG)
+- Data acquisition systems (DAQ)
+- Arduino, Raspberry Pi for prototyping
+
+### Laboratory Skills
+- Experimental design
+- Protocol development
+- Safety procedures
+- Equipment calibration
+
+---
+
+## Certifications & Training
+
+- MRI Safety Training (2024)
+- Good Clinical Practice (GCP)
+- CITI Program - Human Subjects Research
+- Laboratory Safety Certification
+
+---
+
+## Languages
+
+- **English**: Fluent (Academic and professional)
+- **Chinese (Mandarin)**: Native speaker
+- **Technical Documentation**: Experienced in both languages
+
+---
+
+## Currently Learning
+
+I'm always expanding my skill set. Currently focusing on:
+
+- **Cloud Computing**: AWS for medical image processing pipelines
+- **Advanced Deep Learning**: Transformer models for medical imaging
+- **Cardiac Modeling**: Computational modeling of cardiac electrophysiology
+- **Regulatory Standards**: FDA guidelines for medical software

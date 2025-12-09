@@ -1,0 +1,64 @@
+---
+title: "Welcome"
+about:
+  template: trestles
+  image: photo.jpg
+  image-width: 20em
+  image-shape: rounded
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jiakunwang
+    - icon: envelope
+      text: Email
+      href: mailto:jxw1329@case.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/jiakunwang
+    - icon: file-earmark-pdf
+      text: CV
+      href: Jiakun_Wang_CV.pdf
+---
+
+## About Me
+
+I am a graduate student in **Biomedical Engineering** at Case Western Reserve University, with dual bachelor's degrees in Biomedical Engineering and Computer Science. Currently, I am conducting research at the **Cardiovascular Innovation Research Center (CIRC)** at Cleveland Clinic Foundation, where I collaborate with Siemens technical specialists on advanced cardiac MRI data processing and analysis.
+
+My research focuses on developing **next-generation cardiac diffusion tensor imaging (DTI) techniques** and integrating machine learning approaches into cardiovascular imaging applications. I am passionate about leveraging computational methods to solve complex biomedical challenges, particularly in medical imaging and cardiac health.
+
+With strong expertise in **Python and Java programming**, I combine my engineering background with clinical applications to advance the field of cardiac imaging. I am dedicated to translating novel technologies into practical clinical solutions that can improve patient care.
+
+## Research Interests
+
+:::: {.columns}
+::: {.column width="50%"}
+### Medical Imaging
+- Cardiac Diffusion Tensor Imaging (DTI)
+- MRI Sequence Optimization
+- Image Reconstruction Algorithms
+- Medical Image Segmentation
+:::
+
+::: {.column width="50%"}
+### Computational Methods
+- Deep Learning for Medical Images
+- Signal Processing
+- Data Analysis Pipelines
+- Clinical Software Development
+:::
+::::
+
+## Current Focus
+
+I am currently working on **cardiac MRI diffusion tensor imaging analysis** at Cleveland Clinic, collaborating with industry partners to develop innovative solutions for:
+
+- Myocardial fiber architecture assessment
+- Automated cardiac segmentation
+- Clinical workflow optimization
+- Machine learning integration in cardiac imaging
+
+## Recent News
+
+- **August 2024**: Joined the Cardiovascular Innovation Research Center at Cleveland Clinic
+- **May 2024**: Completed dual bachelor's degrees in BME and CS from CWRU
+- **January 2024**: Started research on automatic skull stripping for mouse brain MRI
