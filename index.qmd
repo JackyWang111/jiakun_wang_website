@@ -8,13 +8,13 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/jiakunwang
+      href: https://www.linkedin.com/in/jiakun-wang-724377298/
     - icon: envelope
       text: Email
       href: mailto:jxw1329@case.edu
     - icon: github
       text: GitHub
-      href: https://github.com/jiakunwang
+      href: https://github.com/JackyWang111
     - icon: file-earmark-pdf
       text: CV
       href: Jiakun_Wang_CV.pdf
